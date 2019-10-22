@@ -47,3 +47,37 @@ a {
     background-color:#343434;
     color:white;
 }
+section {
+    font-size: 3rem;
+    font-weight: bold;
+    color:darkolivegreen;
+}
+h1 {
+    background-color: beige;
+    color:darkolivegreen;
+}
+.top-bar > .menu-box-1 {
+    margin: 30px;
+}
+nav {
+    text-align: center;
+}
+.board > .middlemenu {
+   color: white;
+    background-color: black;
+    margin : 10px;
+}
+.board > .middlemenu:first-child {
+    background-color: gray;
+}
+.board > img {
+    width: 490px;
+} 
+.board > nav > img {
+    width: 315px;
+    margin:0 9px;
+}
+
+.board >.menu > img {
+    width: 480px; 
+}
